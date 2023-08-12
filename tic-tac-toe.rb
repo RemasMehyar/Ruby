@@ -25,4 +25,5 @@ def promptMove
     userIndex=user.to_i-1
     if isValid?(board,userIndex)
 end
+    p
 

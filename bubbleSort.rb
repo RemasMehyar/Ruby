@@ -11,5 +11,3 @@ def bubbleSort (array)
             array
     end
         p bubbleSort([4,3,78,2,0,2])
-
-

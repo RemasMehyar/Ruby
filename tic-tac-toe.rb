@@ -80,7 +80,6 @@ def promptMove(board)
     drawBoard(board)
   else
     puts "position invalid"
-  end
   if win(board)
     puts "congrats"
   end
